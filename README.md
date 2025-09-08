@@ -1,2 +1,2 @@
-# 2025-P1-B
+# 2025-P1-B - Programovanie IT: Java
 Programovanie IT - Milan Babuljak, šk. rok 2025/26
